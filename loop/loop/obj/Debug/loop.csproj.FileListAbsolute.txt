@@ -1,0 +1,8 @@
+D:\shweta\dotnet\loop\loop\bin\Debug\loop.exe.config
+D:\shweta\dotnet\loop\loop\bin\Debug\loop.exe
+D:\shweta\dotnet\loop\loop\bin\Debug\loop.pdb
+D:\shweta\dotnet\loop\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+D:\shweta\dotnet\loop\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+D:\shweta\dotnet\loop\loop\obj\Debug\loop.exe
+D:\shweta\dotnet\loop\loop\obj\Debug\loop.pdb
+D:\shweta\dotnet\loop\loop\obj\Debug\loop.exe.config

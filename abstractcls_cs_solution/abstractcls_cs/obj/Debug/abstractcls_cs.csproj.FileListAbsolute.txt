@@ -1,0 +1,8 @@
+D:\shweta\dotnet\abstractcls_cs_solution\abstractcls_cs\bin\Debug\abstractcls_cs.exe.config
+D:\shweta\dotnet\abstractcls_cs_solution\abstractcls_cs\bin\Debug\abstractcls_cs.exe
+D:\shweta\dotnet\abstractcls_cs_solution\abstractcls_cs\bin\Debug\abstractcls_cs.pdb
+D:\shweta\dotnet\abstractcls_cs_solution\abstractcls_cs\obj\Debug\abstractcls_cs.csproj.AssemblyReference.cache
+D:\shweta\dotnet\abstractcls_cs_solution\abstractcls_cs\obj\Debug\abstractcls_cs.csproj.CoreCompileInputs.cache
+D:\shweta\dotnet\abstractcls_cs_solution\abstractcls_cs\obj\Debug\abstractcls_cs.exe
+D:\shweta\dotnet\abstractcls_cs_solution\abstractcls_cs\obj\Debug\abstractcls_cs.pdb
+D:\shweta\dotnet\abstractcls_cs_solution\abstractcls_cs\obj\Debug\abstractcls_cs.exe.config

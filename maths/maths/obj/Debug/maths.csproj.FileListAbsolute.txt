@@ -1,0 +1,8 @@
+D:\shweta\dotnet\maths\maths\bin\Debug\maths.exe.config
+D:\shweta\dotnet\maths\maths\bin\Debug\maths.exe
+D:\shweta\dotnet\maths\maths\bin\Debug\maths.pdb
+D:\shweta\dotnet\maths\maths\obj\Debug\maths.csproj.AssemblyReference.cache
+D:\shweta\dotnet\maths\maths\obj\Debug\maths.csproj.CoreCompileInputs.cache
+D:\shweta\dotnet\maths\maths\obj\Debug\maths.exe
+D:\shweta\dotnet\maths\maths\obj\Debug\maths.pdb
+D:\shweta\dotnet\maths\maths\obj\Debug\maths.exe.config

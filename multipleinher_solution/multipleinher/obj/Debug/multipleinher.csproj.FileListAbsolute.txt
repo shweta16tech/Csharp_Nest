@@ -1,0 +1,8 @@
+D:\shweta\dotnet\multipleinher_solution\multipleinher\bin\Debug\multipleinher.exe.config
+D:\shweta\dotnet\multipleinher_solution\multipleinher\bin\Debug\multipleinher.exe
+D:\shweta\dotnet\multipleinher_solution\multipleinher\bin\Debug\multipleinher.pdb
+D:\shweta\dotnet\multipleinher_solution\multipleinher\obj\Debug\multipleinher.csproj.AssemblyReference.cache
+D:\shweta\dotnet\multipleinher_solution\multipleinher\obj\Debug\multipleinher.csproj.CoreCompileInputs.cache
+D:\shweta\dotnet\multipleinher_solution\multipleinher\obj\Debug\multipleinher.exe
+D:\shweta\dotnet\multipleinher_solution\multipleinher\obj\Debug\multipleinher.pdb
+D:\shweta\dotnet\multipleinher_solution\multipleinher\obj\Debug\multipleinher.exe.config

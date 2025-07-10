@@ -1,0 +1,8 @@
+D:\shweta\dotnet\solution\hello\bin\Debug\hello.exe.config
+D:\shweta\dotnet\solution\hello\bin\Debug\hello.exe
+D:\shweta\dotnet\solution\hello\bin\Debug\hello.pdb
+D:\shweta\dotnet\solution\hello\obj\Debug\hello.csproj.AssemblyReference.cache
+D:\shweta\dotnet\solution\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+D:\shweta\dotnet\solution\hello\obj\Debug\hello.exe
+D:\shweta\dotnet\solution\hello\obj\Debug\hello.pdb
+D:\shweta\dotnet\solution\hello\obj\Debug\hello.exe.config
