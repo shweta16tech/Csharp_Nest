@@ -1,8 +1,0 @@
-D:\shweta\dotnet\methods_cs_sharp\methods_cs\bin\Debug\methods_cs.exe.config
-D:\shweta\dotnet\methods_cs_sharp\methods_cs\bin\Debug\methods_cs.exe
-D:\shweta\dotnet\methods_cs_sharp\methods_cs\bin\Debug\methods_cs.pdb
-D:\shweta\dotnet\methods_cs_sharp\methods_cs\obj\Debug\methods_cs.csproj.AssemblyReference.cache
-D:\shweta\dotnet\methods_cs_sharp\methods_cs\obj\Debug\methods_cs.csproj.CoreCompileInputs.cache
-D:\shweta\dotnet\methods_cs_sharp\methods_cs\obj\Debug\methods_cs.exe
-D:\shweta\dotnet\methods_cs_sharp\methods_cs\obj\Debug\methods_cs.pdb
-D:\shweta\dotnet\methods_cs_sharp\methods_cs\obj\Debug\methods_cs.exe.config

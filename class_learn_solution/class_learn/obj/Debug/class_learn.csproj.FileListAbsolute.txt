@@ -1,8 +1,0 @@
-D:\shweta\dotnet\class_learn_solution\class_learn\bin\Debug\class_learn.exe.config
-D:\shweta\dotnet\class_learn_solution\class_learn\bin\Debug\class_learn.exe
-D:\shweta\dotnet\class_learn_solution\class_learn\bin\Debug\class_learn.pdb
-D:\shweta\dotnet\class_learn_solution\class_learn\obj\Debug\class_learn.csproj.AssemblyReference.cache
-D:\shweta\dotnet\class_learn_solution\class_learn\obj\Debug\class_learn.csproj.CoreCompileInputs.cache
-D:\shweta\dotnet\class_learn_solution\class_learn\obj\Debug\class_learn.exe
-D:\shweta\dotnet\class_learn_solution\class_learn\obj\Debug\class_learn.pdb
-D:\shweta\dotnet\class_learn_solution\class_learn\obj\Debug\class_learn.exe.config

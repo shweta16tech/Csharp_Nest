@@ -1,8 +1,0 @@
-D:\shweta\dotnet\CsharpPractice_solution\CsharpPractice\bin\Debug\CsharpPractice.exe.config
-D:\shweta\dotnet\CsharpPractice_solution\CsharpPractice\bin\Debug\CsharpPractice.exe
-D:\shweta\dotnet\CsharpPractice_solution\CsharpPractice\bin\Debug\CsharpPractice.pdb
-D:\shweta\dotnet\CsharpPractice_solution\CsharpPractice\obj\Debug\CsharpPractice.csproj.AssemblyReference.cache
-D:\shweta\dotnet\CsharpPractice_solution\CsharpPractice\obj\Debug\CsharpPractice.csproj.CoreCompileInputs.cache
-D:\shweta\dotnet\CsharpPractice_solution\CsharpPractice\obj\Debug\CsharpPractice.exe
-D:\shweta\dotnet\CsharpPractice_solution\CsharpPractice\obj\Debug\CsharpPractice.pdb
-D:\shweta\dotnet\CsharpPractice_solution\CsharpPractice\obj\Debug\CsharpPractice.exe.config

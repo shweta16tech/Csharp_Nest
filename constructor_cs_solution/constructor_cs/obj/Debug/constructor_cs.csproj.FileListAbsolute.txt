@@ -1,8 +1,0 @@
-D:\shweta\dotnet\constructor_cs_solution\constructor_cs\bin\Debug\constructor_cs.exe.config
-D:\shweta\dotnet\constructor_cs_solution\constructor_cs\bin\Debug\constructor_cs.exe
-D:\shweta\dotnet\constructor_cs_solution\constructor_cs\bin\Debug\constructor_cs.pdb
-D:\shweta\dotnet\constructor_cs_solution\constructor_cs\obj\Debug\constructor_cs.csproj.AssemblyReference.cache
-D:\shweta\dotnet\constructor_cs_solution\constructor_cs\obj\Debug\constructor_cs.csproj.CoreCompileInputs.cache
-D:\shweta\dotnet\constructor_cs_solution\constructor_cs\obj\Debug\constructor_cs.exe
-D:\shweta\dotnet\constructor_cs_solution\constructor_cs\obj\Debug\constructor_cs.pdb
-D:\shweta\dotnet\constructor_cs_solution\constructor_cs\obj\Debug\constructor_cs.exe.config

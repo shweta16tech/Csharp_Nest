@@ -1,8 +1,0 @@
-D:\shweta\dotnet\soln_addition\addition\bin\Debug\addition.exe.config
-D:\shweta\dotnet\soln_addition\addition\bin\Debug\addition.exe
-D:\shweta\dotnet\soln_addition\addition\bin\Debug\addition.pdb
-D:\shweta\dotnet\soln_addition\addition\obj\Debug\addition.csproj.AssemblyReference.cache
-D:\shweta\dotnet\soln_addition\addition\obj\Debug\addition.csproj.CoreCompileInputs.cache
-D:\shweta\dotnet\soln_addition\addition\obj\Debug\addition.exe
-D:\shweta\dotnet\soln_addition\addition\obj\Debug\addition.pdb
-D:\shweta\dotnet\soln_addition\addition\obj\Debug\addition.exe.config

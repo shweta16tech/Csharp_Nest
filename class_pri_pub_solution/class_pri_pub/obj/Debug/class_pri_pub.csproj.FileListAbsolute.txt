@@ -1,7 +1,0 @@
-D:\shweta\dotnet\class_pri_pub_solution\class_pri_pub\bin\Debug\class_pri_pub.exe.config
-D:\shweta\dotnet\class_pri_pub_solution\class_pri_pub\bin\Debug\class_pri_pub.exe
-D:\shweta\dotnet\class_pri_pub_solution\class_pri_pub\bin\Debug\class_pri_pub.pdb
-D:\shweta\dotnet\class_pri_pub_solution\class_pri_pub\obj\Debug\class_pri_pub.csproj.AssemblyReference.cache
-D:\shweta\dotnet\class_pri_pub_solution\class_pri_pub\obj\Debug\class_pri_pub.csproj.CoreCompileInputs.cache
-D:\shweta\dotnet\class_pri_pub_solution\class_pri_pub\obj\Debug\class_pri_pub.exe
-D:\shweta\dotnet\class_pri_pub_solution\class_pri_pub\obj\Debug\class_pri_pub.pdb

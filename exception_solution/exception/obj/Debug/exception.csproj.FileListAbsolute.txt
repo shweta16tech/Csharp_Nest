@@ -1,8 +1,0 @@
-D:\shweta\dotnet\exception_solution\exception\bin\Debug\exception.exe.config
-D:\shweta\dotnet\exception_solution\exception\bin\Debug\exception.exe
-D:\shweta\dotnet\exception_solution\exception\bin\Debug\exception.pdb
-D:\shweta\dotnet\exception_solution\exception\obj\Debug\exception.csproj.AssemblyReference.cache
-D:\shweta\dotnet\exception_solution\exception\obj\Debug\exception.csproj.CoreCompileInputs.cache
-D:\shweta\dotnet\exception_solution\exception\obj\Debug\exception.exe
-D:\shweta\dotnet\exception_solution\exception\obj\Debug\exception.pdb
-D:\shweta\dotnet\exception_solution\exception\obj\Debug\exception.exe.config

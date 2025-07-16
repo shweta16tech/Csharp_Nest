@@ -1,7 +1,0 @@
-D:\shweta\dotnet\interface_cs_solution\interface_cs\bin\Debug\interface_cs.exe.config
-D:\shweta\dotnet\interface_cs_solution\interface_cs\bin\Debug\interface_cs.exe
-D:\shweta\dotnet\interface_cs_solution\interface_cs\bin\Debug\interface_cs.pdb
-D:\shweta\dotnet\interface_cs_solution\interface_cs\obj\Debug\interface_cs.csproj.AssemblyReference.cache
-D:\shweta\dotnet\interface_cs_solution\interface_cs\obj\Debug\interface_cs.csproj.CoreCompileInputs.cache
-D:\shweta\dotnet\interface_cs_solution\interface_cs\obj\Debug\interface_cs.exe
-D:\shweta\dotnet\interface_cs_solution\interface_cs\obj\Debug\interface_cs.pdb
